@@ -1,5 +1,14 @@
-## Hi there 👋
+## Olá 👋
+Meu nome é Sinara Fernanda Dos Santos
 
+Estou estudando no Alura
+
+Estou me desenvolvendo atualmente na linguagem de JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+# Você pode entrar em contato comigo 📫
+Email: 00001105386867sp@al.educacao.sp.gov.br
 <!--
 **RA110538686/RA110538686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
