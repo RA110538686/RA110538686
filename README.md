@@ -9,6 +9,8 @@ Utilizo esse espaço para minha organização e compartilhamento dos meus projet
 
 # Você pode entrar em contato comigo 📫
 Email: 00001105386867sp@al.educacao.sp.gov.br
+
+>Escrito por Sinara
 <!--
 **RA110538686/RA110538686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
